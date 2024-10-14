@@ -65,7 +65,7 @@ Original Image
 
 Colorized Image
 
-Replace path/to/original_image.jpg and path/to/colorized_image.jpg with the actual paths to your images.
+Replace 1.jpg and 2.jpg with the actual paths to your images.
 
 License
 
