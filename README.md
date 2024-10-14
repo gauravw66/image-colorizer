@@ -58,6 +58,15 @@ Requirements
     NumPy
     Matplotlib
 
+    Output
+
+Here are some examples of the output:
+Original Image
+
+Colorized Image
+
+Replace path/to/original_image.jpg and path/to/colorized_image.jpg with the actual paths to your images.
+
 License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
