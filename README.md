@@ -62,7 +62,6 @@ These files are downloaded from the OpenCV repository and stored in the model di
 
 ## Screenshots
 
-Here are some screenshots of the GraphWise app:
 
 ![1](1.jpg)
 
