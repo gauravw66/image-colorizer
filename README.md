@@ -18,13 +18,13 @@ This project uses a pre-trained deep learning model from OpenCV to colorize gray
    cd <repository-directory>
 
 
-Install the required packages:
+## Install the required packages:
 
 bash
 
     pip install numpy opencv-python matplotlib
 
-Usage
+## Usage
 
     Place your grayscale image in the project directory or specify its path in the script.
 
@@ -34,7 +34,7 @@ Usage
 
 image_path = 'img5.jpg'  # Replace with your image path
 
-Run the script:
+## Run the script:
 
 bash
 
@@ -51,7 +51,7 @@ This project downloads the required model files automatically. The following fil
     Cluster Centers: Used for colorization transformations.
 
 These files are downloaded from the OpenCV repository and stored in the model directory.
-Requirements
+## Requirements
 
     Python 3.x
     OpenCV
@@ -73,6 +73,6 @@ Here are some screenshots of the GraphWise app:
 ![4](4.jpg)
 
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
