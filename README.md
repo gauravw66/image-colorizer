@@ -60,12 +60,18 @@ Requirements
 
     Output
 
-Here are some examples of the output:
-Original Image
+## Screenshots
 
-Colorized Image
+Here are some screenshots of the GraphWise app:
 
-Replace 1.jpg and 2.jpg with the actual paths to your images.
+![1](1.jpg)
+
+![2](2.jpg)
+
+![3](3.jpg)
+
+![4](4.jpg)
+
 
 License
 
